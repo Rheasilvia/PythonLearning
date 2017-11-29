@@ -50,6 +50,7 @@ Temporary Items
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
+.idea/*
 
 # Gradle:
 .idea/**/gradle.xml
@@ -212,3 +213,20 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+
+/TensorflowDemo/tensorflow_udacity/tf_cnns/*.gz
+/TensorflowDemo/tensorflow_udacity/tf_mnist/train-images-idx3-ubyte.gz
+/TensorflowDemo/tensorflow_udacity/tf_mnist/t10k-labels-idx1-ubyte.gz
+/TensorflowDemo/tensorflow_udacity/tf_mnist/train-labels-idx1-ubyte.gz
+/TensorflowDemo/tensorflow_udacity/tf_mnist/t10k-images-idx3-ubyte.gz
+/OpenCV/base/test_imwrite.jpg
+/OpenCV/base/test_grayscale.jpg
+/OpenCV/base/lena_200x200.jpg
+/OpenCV/base/img_plyplot.jpg
+/OpenCV/base/test_imwrite.png
+/OpenCV/base/img_cv2.jpg
+/OpenCV/base/lena_200x300.jpg
+/OpenCV/base/lena_200x300_1.jpg
+/OpenCV/base/lena_300x300.jpg
+/OpenCV/base/lena_200x300_2.jpg
+/Python机器学习实践/iris/iris.data
