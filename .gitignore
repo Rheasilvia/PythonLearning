@@ -230,3 +230,13 @@ venv.bak/
 /OpenCV/base/lena_300x300.jpg
 /OpenCV/base/lena_200x300_2.jpg
 /Python机器学习实践/iris/iris.data
+/.vscode/
+/pythonDemo/.ipynb_checkpoints/
+/.ipynb_checkpoints/
+/Pandas/.ipynb_checkpoints/
+/Pandas/births.csv
+/Pandas/testData.csv
+/Pandas/state-abbrevs.csv
+/Pandas/state-areas.csv
+/Pandas/state-population.csv
+/Pandas/Fremont_Bridge_Hourly_Bicycle_Counts_by_Month_October_2012_to_present.csv
